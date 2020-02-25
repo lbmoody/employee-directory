@@ -1,5 +1,5 @@
 # Employee Directory
-This is a simple react app that interfaces with a dummy API to render employees to a table. The table has basic search and sort functionality.
+This is a simple react app that interfaces with a dummy API to render employees to a table. The table has basic search and sort functionality. Access the deployed application [here](https://secret-meadow-14769.herokuapp.com/).
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/24512590/75266764-0cdea580-57b0-11ea-9aa4-00f45285b24b.png)
