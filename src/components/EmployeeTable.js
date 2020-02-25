@@ -7,6 +7,7 @@ class EmployeeTable extends Component {
         columns: [
             { title: 'ID', field: 'id' },
             { title: 'Employee', field: 'employee_name' },
+            { title: 'Age', field: 'employee_age' },
             { title: 'Salary', field: 'employee_salary', type: 'numeric' }
         ],
         data: []

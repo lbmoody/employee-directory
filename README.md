@@ -1,3 +1,10 @@
+# Employee Directory
+This is a simple react app that interfaces with a dummy API to render employees to a table. The table has basic search and sort functionality.
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/24512590/75266764-0cdea580-57b0-11ea-9aa4-00f45285b24b.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
